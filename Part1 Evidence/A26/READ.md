@@ -9,6 +9,7 @@ Actual behaviour:
 10
 20
 30
+
 Traceback (most recent call last):
   File "c:\Users\ASUS\OneDrive\Desktop\Defensive Portfolio\A26. impliment a system bug.py", line 4, in <module>
     print(numbers[i])
