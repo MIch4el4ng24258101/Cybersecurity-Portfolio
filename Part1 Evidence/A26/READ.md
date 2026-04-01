@@ -3,11 +3,17 @@ Expected behaviour:
 The program should print:
 
 10
+
 20
+
 30
+
 Actual behaviour:
+
 10
+
 20
+
 30
 
 Traceback (most recent call last):
